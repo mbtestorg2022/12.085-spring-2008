@@ -8,6 +8,6 @@ For the final assignment, students were required to seek out recent research on 
 
 Adam Rigel: Is it Feasible for the U.S. to Convert All Electricity Production to Wind Power? ([PDF]({{< baseurl >}}/resources/rigel))
 
-Jessica Stanley: Terrestrial Carbon Sequestration (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2 MB]({{< baseurl >}}/resources/stanley))
+Jessica Stanley: Terrestrial Carbon Sequestration ([PDF - 1.2 MB]({{< baseurl >}}/resources/stanley))
 
 Lisa Song: Sequestering Carbon Dioxide in Carbonates ([PDF]({{< baseurl >}}/resources/song))
